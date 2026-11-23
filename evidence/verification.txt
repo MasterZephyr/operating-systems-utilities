@@ -1,0 +1,16 @@
+Verification date: 2026-11-23
+
+Assignment 1
+- Clean C11 build completed with -Wall -Wextra -Wpedantic.
+- ELF parser executed against the supplied 64-bit sample and printed ELF, program-header, and section information.
+
+Assignment 2
+- Clean C11/pthreads build completed with -Wall -Wextra -Wpedantic -Werror.
+- MLFQ completed the four-CPU, S=3200 custom workload and reported turnaround and response times for task types 0-3.
+
+Assignment 3
+- Clean C11 build completed with -Wall -Wextra -Wpedantic -Werror.
+- FAT32 info reported the 3430-GOOD volume metadata.
+- Recursive list completed with 1,024 output lines.
+
+Raw source and supplied course artifacts are not included in this public case study.
